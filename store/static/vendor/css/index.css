@@ -17,3 +17,15 @@ body {
     text-decoration: none;
     color: white;
 }
+
+.secret_phrase {
+    color: green;
+    font-weight: 900;
+    font-size: 40px;
+    opacity: 0.3;
+    font-style: italic;
+}
+
+.center_prod {
+    text-align: center;
+}
