@@ -1,4 +1,4 @@
-#!/home/nix/Projects/Clothing_store-/venv/bin/python
+#!/home/nix/Projects/Clothing_store/venv/bin/python3
 # When the django-admin.py deprecation ends, remove this script.
 import warnings
 
