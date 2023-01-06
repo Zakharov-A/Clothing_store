@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from products.models import ProductCategory, Product
 
+
 def index(request):
     context = {
         'title': 'Fashion clothes',
