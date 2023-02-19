@@ -6,11 +6,12 @@ from products.models import ProductCategory, Product, Basket
 
 admin.site.register(ProductCategory)
 
+
 @admin.register(Product)
 class ProductAdmin(admin.ModelAdmin):
     list_display = ('name', 'price', 'quantity', 'category')
     fields = ('name', 'image', 'description', ('price', 'quantity'), 'category')
-    readonly_fields = ('description',)
+    # readonly_fields = ('description',)
     search_fields = ('name',)
     ordering = ('name',)
 
