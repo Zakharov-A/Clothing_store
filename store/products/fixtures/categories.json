@@ -1,1 +1,158 @@
-[{"model": "products.product", "pk": 1, "fields": {"name": "Худи черного цвета с монограммами adidas Originals", "description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.", "price": "6090.00", "quantity": 2, "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png", "category": 1}}, {"model": "products.product", "pk": 2, "fields": {"name": "Синяя куртка The North Face", "description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пуховый наполнитель.", "price": "23725.00", "quantity": 2, "image": "products_images/Blue-jacket-The-North-Face.png", "category": 1}}, {"model": "products.product", "pk": 3, "fields": {"name": "Коричневый спортивный oversized-топ ASOS DESIGN", "description": "Материал с плюшевой текстурой. Удобный и мягкий.", "price": "3390.00", "quantity": 1, "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png", "category": 1}}, {"model": "products.product", "pk": 4, "fields": {"name": "Черный рюкзак Nike Heritage", "description": "Плотная ткань. Легкий материал.", "price": "2340.00", "quantity": 3, "image": "products_images/Black-Nike-Heritage-backpack.png", "category": 3}}, {"model": "products.product", "pk": 5, "fields": {"name": "Черные туфли на платформе с 3 парами люверсов Dr Martens 1461 Bex", "description": "Гладкий кожаный верх. Натуральный материал.", "price": "13590.00", "quantity": 2, "image": "products_images/Black-Dr-Martens-shoes.png", "category": 2}}, {"model": "products.product", "pk": 6, "fields": {"name": "Темно-синие широкие строгие брюки ASOS DESIGN", "description": "Легкая эластичная ткань сирсакер Фактурная ткань.", "price": "2890.00", "quantity": 3, "image": "products_images/Adidas-hoodie_F0XLBHQ.png", "category": 1}}, {"model": "products.product", "pk": 7, "fields": {"name": "Puma Karmen", "description": "Отличительные черты бренда – аутентичность и максимальная натуральность: многослойные кожаные подошвы, эффект патины и искусственного состаривания обуви.", "price": "17590.00", "quantity": 4, "image": "products_images/309742623.jpg", "category": 2}}, {"model": "products.product", "pk": 8, "fields": {"name": "Altura", "description": "Женские ботинки высокие Altura 291 HMN 36 Крем (AL2000000160511)", "price": "1589.00", "quantity": 6, "image": "products_images/244318298.jpg", "category": 2}}, {"model": "products.product", "pk": 9, "fields": {"name": "Puma Karmen Rebelle Mid", "description": "Женские ботинки низкие Puma Karmen Rebelle Mid 38721303 40.5 (7) 26 см Puma White-Beetroot Purple (4065449331012)", "price": "1999.00", "quantity": 11, "image": "products_images/309742762.jpg", "category": 2}}, {"model": "products.product", "pk": 10, "fields": {"name": "Очки виртуальной реальности Sony PlayStation VR2", "description": "Разрешение экрана: 2000 x 2040 на глаз\r\nЧастота кадров: 120 Гц, 90 Гц\r\nРазделение линз: настраиваемое\r\nДатчики: \r\n- Датчик перемещения: шестиосевая система определения движения (трехосевой гироскоп, трехосевой акселерометр)\r\n- Датчик надевания: IR Proximity\r\nКамеры:\r\n- 4 камеры для отслеживания гарнитуры и контроллера\r\n- Инфракрасные камеры для отслеживания глаз\r\nОтдача: встроенный вибропривод\r\nАудио: \r\n- Ввод: встроенный микрофон\r\n- Вывод: разъем стереонаушников", "price": "23219.00", "quantity": 5, "image": "products_images/298427222.jpg", "category": 6}}, {"model": "products.product", "pk": 11, "fields": {"name": "Apple AirPods", "description": "Наушники Apple AirPods Gen2 with Charging Case MV7N2", "price": "13500.00", "quantity": 4, "image": "products_images/059364104f2b4e36d20a1dfbe3b08c29.jpg", "category": 6}}, {"model": "products.product", "pk": 12, "fields": {"name": "Xiaomi Redmi Airdots 2 Black", "description": "Наушники Xiaomi Redmi Airdots 2 Black (Mi True Wireless Earbuds Basic 2)", "price": "20000.00", "quantity": 6, "image": "products_images/a699a5eedc88b2b92cd7a4959a9afedf.jpg", "category": 6}}, {"model": "products.product", "pk": 13, "fields": {"name": "JBL T510BT", "description": "Наушники JBL T510BT White", "price": "13000.00", "quantity": 5, "image": "products_images/79b70b7650f38cacfb388502227e5bb9.jpg", "category": 6}}]
+[
+  {
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+      "name": "Худи черного цвета с монограммами adidas Originals",
+      "description": "Мягкая ткань для свитшотов. Стиль и комфорт – это образ жизни.",
+      "price": "6090.00",
+      "quantity": 2,
+      "image": "products_images/Dark-blue-wide-leg-ASOs-DESIGN-trousers.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+      "name": "Синяя куртка The North Face",
+      "description": "Гладкая ткань. Водонепроницаемое покрытие. Легкий и теплый пуховый наполнитель.",
+      "price": "23725.00",
+      "quantity": 2,
+      "image": "products_images/Blue-jacket-The-North-Face.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+      "name": "Коричневый спортивный oversized-топ ASOS DESIGN",
+      "description": "Материал с плюшевой текстурой. Удобный и мягкий.",
+      "price": "3390.00",
+      "quantity": 1,
+      "image": "products_images/Brown-sports-oversized-top-ASOS-DESIGN.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+      "name": "Черный рюкзак Nike Heritage",
+      "description": "Плотная ткань. Легкий материал.",
+      "price": "2340.00",
+      "quantity": 3,
+      "image": "products_images/Black-Nike-Heritage-backpack.png",
+      "category": 3
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+      "name": "Черные туфли на платформе с 3 парами люверсов Dr Martens 1461 Bex",
+      "description": "Гладкий кожаный верх. Натуральный материал.",
+      "price": "13590.00",
+      "quantity": 2,
+      "image": "products_images/Black-Dr-Martens-shoes.png",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 6,
+    "fields": {
+      "name": "Темно-синие широкие строгие брюки ASOS DESIGN",
+      "description": "Легкая эластичная ткань сирсакер Фактурная ткань.",
+      "price": "2890.00",
+      "quantity": 3,
+      "image": "products_images/Adidas-hoodie_F0XLBHQ.png",
+      "category": 1
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 7,
+    "fields": {
+      "name": "Puma Karmen",
+      "description": "Отличительные черты бренда – аутентичность и максимальная натуральность: многослойные кожаные подошвы, эффект патины и искусственного состаривания обуви.",
+      "price": "17590.00",
+      "quantity": 4,
+      "image": "products_images/309742623.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 8,
+    "fields": {
+      "name": "Altura",
+      "description": "Женские ботинки высокие Altura 291 HMN 36 Крем (AL2000000160511)",
+      "price": "1589.00",
+      "quantity": 6,
+      "image": "products_images/244318298.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 9,
+    "fields": {
+      "name": "Puma Karmen Rebelle Mid",
+      "description": "Женские ботинки низкие Puma Karmen Rebelle Mid 38721303 40.5 (7) 26 см Puma White-Beetroot Purple (4065449331012)",
+      "price": "1999.00",
+      "quantity": 11,
+      "image": "products_images/309742762.jpg",
+      "category": 2
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 10,
+    "fields": {
+      "name": "Очки виртуальной реальности Sony PlayStation VR2",
+      "description": "Разрешение экрана: 2000 x 2040 на глаз\r\nЧастота кадров: 120 Гц, 90 Гц\r\nРазделение линз: настраиваемое\r\nДатчики: \r\n- Датчик перемещения: шестиосевая система определения движения (трехосевой гироскоп, трехосевой акселерометр)\r\n- Датчик надевания: IR Proximity\r\nКамеры:\r\n- 4 камеры для отслеживания гарнитуры и контроллера\r\n- Инфракрасные камеры для отслеживания глаз\r\nОтдача: встроенный вибропривод\r\nАудио: \r\n- Ввод: встроенный микрофон\r\n- Вывод: разъем стереонаушников",
+      "price": "23219.00",
+      "quantity": 5,
+      "image": "products_images/298427222.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 11,
+    "fields": {
+      "name": "Apple AirPods",
+      "description": "Наушники Apple AirPods Gen2 with Charging Case MV7N2",
+      "price": "13500.00",
+      "quantity": 4,
+      "image": "products_images/059364104f2b4e36d20a1dfbe3b08c29.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 12,
+    "fields": {
+      "name": "Xiaomi Redmi Airdots 2 Black",
+      "description": "Наушники Xiaomi Redmi Airdots 2 Black (Mi True Wireless Earbuds Basic 2)",
+      "price": "20000.00",
+      "quantity": 6,
+      "image": "products_images/a699a5eedc88b2b92cd7a4959a9afedf.jpg",
+      "category": 6
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 13,
+    "fields": {
+      "name": "JBL T510BT",
+      "description": "Наушники JBL T510BT White",
+      "price": "13000.00",
+      "quantity": 5,
+      "image": "products_images/79b70b7650f38cacfb388502227e5bb9.jpg",
+      "category": 6
+    }
+  }
+]
